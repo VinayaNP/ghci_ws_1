@@ -15,7 +15,7 @@ public class SampleAddTest {
   @Test 
   public void testAdd() 
   { Assert.assertEquals(5, sampleClass.add(3, 2));
-    Assert.assertEquals(7, sampleClass.add(4, 2));
+    Assert.assertEquals(6, sampleClass.add(4, 2));
   }
  
   
