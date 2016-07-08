@@ -1,5 +1,5 @@
 package junit;
-// class to do addition
+// class to do addition test:
 public class SampleAdd {
   public int add(int x, int y) 
    { 
